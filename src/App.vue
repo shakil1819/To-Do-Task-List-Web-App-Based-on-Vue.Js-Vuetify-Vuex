@@ -11,7 +11,7 @@
 					<img src="avatar.jpg" alt="user" />
 				</v-avatar>
 				<div class="white--text text-subtitle-1 font-weight-bold">
-					Shakil Mosharrof
+					<a href="https://shakil-mosharrof-xcadet-bcc.netlify.app/">👉Shakil Mosharrof</a>
 				</div>
 				<div class="white--text text-subtitle-2"><a href="https://www.linkedin.com/in/shakil-mosharrof/">@shakil1819</a></div>
 			</v-img>
