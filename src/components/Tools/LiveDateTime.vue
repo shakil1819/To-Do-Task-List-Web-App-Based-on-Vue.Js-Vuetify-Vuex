@@ -12,7 +12,7 @@ export default {
 	},
 	methods: {
 		getDate() {
-			this.date = format(new Date(), 'MMMM dd, HH:mm:ss')
+			this.date = format(new Date(), 'MMMM dd yyyy, HH:mm:ss')
 			setTimeout(this.getDate, 1000)
 		},
 	},
